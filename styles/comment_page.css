@@ -1,0 +1,64 @@
+body{
+    width: 320px;
+    margin: 0 auto;
+    background: yellow;
+    font-family: "Microsoft Yahei";
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+.titlesub{
+    font-size: 12px;
+}
+
+.content{
+    margin-left: 26px;
+}
+
+.feedback{
+    margin: 15px auto;
+    padding: 0 40px 0 20px;
+}
+
+main{
+    margin-top:15px;
+    
+}
+
+section{
+    margin: 20px 0;
+}
+
+
+.title-left
+{
+    max-width: 120px;
+}
+
+.title-right
+{
+    position: relative;
+    left: 40px;
+    top: 0;
+   
+}
+
+h1{
+    font-size: 18px;
+}
+
+p{
+    font-size: 14px;
+    margin:0;
+}
+
+.user{
+    color: blue
+}
+
+
+.input{
+    width: 290px;
+}
